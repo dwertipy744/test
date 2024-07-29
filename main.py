@@ -1,6 +1,8 @@
 from flask import Flask, request, jsonify, send_from_directory, abort
 import os
 import json
+import webbrowser
+
 
 app = Flask(__name__)
 
@@ -39,4 +41,6 @@ def serve_static_files(filename):
         return abort(404)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    webbrowser.open("http:/127.0.0.1:5000")
+    app.run()
+
