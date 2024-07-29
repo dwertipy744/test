@@ -11,771 +11,399 @@
     "amount": 10,
     "tradeTransactions": [
         {
-            "hash": "fkrl...K4ZP",
+            "hash": "b7tj...7ZWH",
             "type": "Swap",
-            "coin": "GOAT",
-            "profit": 0.005068635723591228
+            "coin": "CHOLO",
+            "profit": 0.01866885365914694
         },
         {
-            "hash": "5Rcp...Eyky",
+            "hash": "J51z...krTh",
             "type": "Swap",
-            "coin": "STOIC",
-            "profit": 0.01332704512009526
+            "coin": "Neira",
+            "profit": 0.012600281033099197
         },
         {
-            "hash": "3WD4...L4tO",
+            "hash": "BAa1...1wme",
             "type": "Swap",
-            "coin": "TF",
-            "profit": 0.0009707022973625415
+            "coin": "SAS",
+            "profit": 0.013142512507793646
         },
         {
-            "hash": "MNud...OB7u",
+            "hash": "wUoe...aXoi",
             "type": "Swap",
-            "coin": "BUTTSEX",
-            "profit": 0.004982423672552723
+            "coin": "DADDY",
+            "profit": 0.010461571585348016
         },
         {
-            "coin": "bezenga",
-            "hash": "PHpH...Ia0x",
-            "profit": 0.011899739882951866,
-            "type": "Swap"
+            "hash": "rhq8...QYPL",
+            "type": "Swap",
+            "coin": "AART",
+            "profit": 0.014061924514104878
         },
         {
-            "coin": "USDT",
-            "hash": "jGUA...5Ogc",
-            "profit": 0.012384433490790872,
-            "type": "Swap"
+            "hash": "OOxb...2wbq",
+            "type": "Swap",
+            "coin": "arc",
+            "profit": 0.018959418125363656
         },
         {
-            "coin": "GIBBY",
-            "hash": "7EUf...Wti5",
-            "profit": 0.021707857245749397,
-            "type": "Swap"
+            "hash": "XNL2...RLlC",
+            "type": "Swap",
+            "coin": "Cico",
+            "profit": 0.01745954292715353
         },
         {
-            "coin": "ATMT",
-            "hash": "mxAf...Z4sp",
-            "profit": 0.017590032729363526,
-            "type": "Swap"
+            "hash": "uwT4...VZXD",
+            "type": "Swap",
+            "coin": "KAMA",
+            "profit": 0.013161419320941442
         },
         {
-            "coin": "Neiro",
-            "hash": "vAFS...V0ss",
-            "profit": 0.010127910781457656,
-            "type": "Swap"
+            "hash": "A18f...yWgX",
+            "type": "Swap",
+            "coin": "HARPER",
+            "profit": 0.022590355533352646
         },
         {
-            "coin": "FUTURE",
-            "hash": "Irmf...mZ4a",
-            "profit": 0.008753212273342808,
-            "type": "Swap"
+            "hash": "ZDun...yM5X",
+            "type": "Swap",
+            "coin": "RPT ",
+            "profit": 0.0236915841287091
         },
         {
-            "coin": "Bun",
-            "hash": "WwOB...28aB",
-            "profit": 0.014686180791115163,
-            "type": "Swap"
+            "hash": "Qpe6...9Gvj",
+            "type": "Swap",
+            "coin": "bitchi",
+            "profit": 0.009099588926931811
         },
         {
-            "coin": "GANJA",
-            "hash": "cGhW...Gexo",
-            "profit": 0.0022022720248268896,
-            "type": "Swap"
+            "hash": "7Pny...UKsm",
+            "type": "Swap",
+            "coin": "PORK",
+            "profit": 0.0036385955568443533
         },
         {
-            "coin": "BabyDoge",
-            "hash": "tj7I...e1Vg",
-            "profit": 0.014639241277301747,
-            "type": "Swap"
+            "hash": "R66s...MZp5",
+            "type": "Swap",
+            "coin": "SCOOT",
+            "profit": 0.0047721077856402476
         },
         {
-            "coin": "AMERO",
-            "hash": "dYdc...sQUr",
-            "profit": 0.008012379500482045,
-            "type": "Swap"
+            "hash": "YtOe...ApEn",
+            "type": "Swap",
+            "coin": "SGB",
+            "profit": 0.02453846594349873
         },
         {
-            "coin": "DOLLAR",
-            "hash": "IkIf...4X7m",
-            "profit": 0.009970177034369995,
-            "type": "Swap"
+            "hash": "keCv...s4tV",
+            "type": "Swap",
+            "coin": "LOL",
+            "profit": 0.01503650651732979
         },
         {
-            "coin": "PONK",
-            "hash": "ukEt...XxT3",
-            "profit": 0.018114496597724062,
-            "type": "Swap"
-        },
-        {
-            "coin": "ELON",
-            "hash": "SJWq...Xntg",
-            "profit": 0.013029490197186973,
-            "type": "Swap"
-        },
-        {
-            "coin": "BAKED",
-            "hash": "rvk6...f5Sb",
-            "profit": 0.020453630064828362,
-            "type": "Swap"
-        },
-        {
-            "coin": "hubSOL",
-            "hash": "HvHe...IU8l",
-            "profit": 0.016165368632180533,
-            "type": "Swap"
-        },
-        {
-            "coin": "USDC",
-            "hash": "PLcA...sNRR",
-            "profit": 0.0210422029460434,
-            "type": "Swap"
-        },
-        {
-            "coin": "USDC",
-            "hash": "ztjQ...I3db",
-            "profit": 0.0021301204246290954,
-            "type": "Swap"
-        },
-        {
-            "coin": "DERP",
-            "hash": "Hbb7...H69e",
-            "profit": 0.0042072828744269064,
-            "type": "Swap"
-        },
-        {
-            "coin": "GWUSS",
-            "hash": "9oRs...NSpS",
-            "profit": 0.023625179947851828,
-            "type": "Swap"
-        },
-        {
-            "coin": "SEND",
-            "hash": "QxIQ...WYYM",
-            "profit": 0.0025675798306026305,
-            "type": "Swap"
-        },
-        {
-            "coin": "MORT",
-            "hash": "a41I...AZSU",
-            "profit": 0.01734413423888347,
-            "type": "Swap"
-        },
-        {
-            "coin": "CULT",
-            "hash": "iICW...YJTb",
-            "profit": 0.012117703548482696,
-            "type": "Swap"
-        },
-        {
-            "coin": "BSKT",
-            "hash": "O2tC...dGEA",
-            "profit": 0.006929530018896247,
-            "type": "Swap"
-        },
-        {
-            "coin": "xIHS",
-            "hash": "yH6U...A1AX",
-            "profit": 0.021475836737752243,
-            "type": "Swap"
-        },
-        {
-            "coin": "VC",
-            "hash": "vfWb...dxwJ",
-            "profit": 0.010541696146455067,
-            "type": "Swap"
-        },
-        {
-            "coin": "PUPPERFISH",
-            "hash": "hOL8...B2yc",
-            "profit": 0.00519892807837585,
-            "type": "Swap"
-        },
-        {
-            "coin": "BAIDEN",
-            "hash": "CMVW...jSgW",
-            "profit": 0.01204705678884258,
-            "type": "Swap"
-        },
-        {
-            "coin": "CDT",
-            "hash": "cOUL...i7io",
-            "profit": 0.019381863965649972,
-            "type": "Swap"
-        },
-        {
-            "coin": "TUPE",
-            "hash": "mdcK...L56k",
-            "profit": 0.0071228570206693775,
-            "type": "Swap"
-        },
-        {
-            "coin": "Blinks",
-            "hash": "XPwZ...z5jj",
-            "profit": 0.0070910405093577225,
-            "type": "Swap"
-        },
-        {
-            "coin": "CHIRU",
-            "hash": "EYU2...Dfjs",
-            "profit": 0.01820996653362985,
-            "type": "Swap"
-        },
-        {
-            "coin": "b",
-            "hash": "aPVE...G3YK",
-            "profit": 0.014821895026498607,
-            "type": "Swap"
-        },
-        {
-            "coin": "INF",
-            "hash": "heX0...AaHV",
-            "profit": 0.01049601375934449,
-            "type": "Swap"
-        },
-        {
-            "coin": "TROLL",
-            "hash": "0KvI...GE26",
-            "profit": 0.0007129459728782791,
-            "type": "Swap"
-        },
-        {
-            "coin": "BURGER",
-            "hash": "QION...MeLE",
-            "profit": 0.019028915551459795,
-            "type": "Swap"
-        },
-        {
-            "coin": "TUPE",
-            "hash": "Hrez...gQsq",
-            "profit": 0.00828882582410256,
-            "type": "Swap"
-        },
-        {
-            "coin": "MUMU",
-            "hash": "MFrw...9Swd",
-            "profit": 0.0076133840078712565,
-            "type": "Swap"
-        },
-        {
-            "coin": "pumpcat",
-            "hash": "rFac...XxNg",
-            "profit": 0.016311724221596997,
-            "type": "Swap"
-        },
-        {
-            "coin": "PRCL",
-            "hash": "vAjg...NJGV",
-            "profit": 0.002068217318088277,
-            "type": "Swap"
-        },
-        {
-            "coin": "mf",
-            "hash": "bFRR...btTO",
-            "profit": 0.011390860904883551,
-            "type": "Swap"
-        },
-        {
-            "coin": "BossCoq",
-            "hash": "heO9...9hFf",
-            "profit": 0.006215632263034419,
-            "type": "Swap"
-        },
-        {
-            "coin": "BASED",
-            "hash": "lt2K...cVUX",
-            "profit": 0.019892898883140313,
-            "type": "Swap"
-        },
-        {
-            "coin": "anon",
-            "hash": "llVY...UngG",
-            "profit": 0.008698247186208893,
-            "type": "Swap"
-        },
-        {
-            "coin": "PUBO",
-            "hash": "6XNo...SPEj",
-            "profit": 0.020339408483963043,
-            "type": "Swap"
-        },
-        {
-            "coin": "ELSA",
-            "hash": "xCeT...LoTH",
-            "profit": 0.012951598124585807,
-            "type": "Swap"
-        },
-        {
-            "coin": "HELLO",
-            "hash": "7jwc...HrJv",
-            "profit": 0.018722412732785524,
-            "type": "Swap"
-        },
-        {
-            "coin": "SUS",
-            "hash": "FhXH...QvEj",
-            "profit": 0.010980723836956273,
-            "type": "Swap"
-        },
-        {
-            "coin": "CUMALA",
-            "hash": "z3UY...aJNI",
-            "profit": 0.013788674427251619,
-            "type": "Swap"
-        },
-        {
-            "coin": "PICA",
-            "hash": "xCXn...bfLV",
-            "profit": 0.016270016238362345,
-            "type": "Swap"
-        },
-        {
-            "coin": "hehe",
-            "hash": "kFWF...0zpX",
-            "profit": 0.0011815673784689442,
-            "type": "Swap"
-        },
-        {
-            "coin": "DTC",
-            "hash": "DAIl...78yz",
-            "profit": 0.016985024164075883,
-            "type": "Swap"
-        },
-        {
-            "coin": "USDC",
-            "hash": "EeNr...WdY3",
-            "profit": 0.007521623174903239,
-            "type": "Swap"
-        },
-        {
-            "coin": "CMONK",
-            "hash": "Wy7r...3L1o",
-            "profit": 0.0125354528733977,
-            "type": "Swap"
-        },
-        {
-            "coin": "BRETTA",
-            "hash": "cuJt...mBsd",
-            "profit": 0.009567547675573761,
-            "type": "Swap"
-        },
-        {
-            "coin": "SEAL",
-            "hash": "67Gd...BUCP",
-            "profit": 0.01916621303283694,
-            "type": "Swap"
-        },
-        {
-            "coin": "BTC",
-            "hash": "JgbI...XDYw",
-            "profit": 0.015737905444864704,
-            "type": "Swap"
-        },
-        {
-            "coin": "NCAT",
-            "hash": "Cuyz...DY15",
-            "profit": 0.0024716854983541465,
-            "type": "Swap"
-        },
-        {
-            "coin": "FOXXX",
-            "hash": "3E6O...qZyu",
-            "profit": 0.02054624494463675,
-            "type": "Swap"
-        },
-        {
-            "coin": "GOONER ",
-            "hash": "qGu8...myZT",
-            "profit": 0.005146843769287087,
-            "type": "Swap"
-        },
-        {
-            "coin": "TCAT",
-            "hash": "GnlG...YkS6",
-            "profit": 0.02073877536781316,
-            "type": "Swap"
-        },
-        {
-            "coin": "SDOGE",
-            "hash": "Zh1H...M3aA",
-            "profit": 0.014388906492437268,
-            "type": "Swap"
-        },
-        {
-            "coin": "SOLSAM",
-            "hash": "ygKd...muxd",
-            "profit": 0.009930678833418055,
-            "type": "Swap"
-        },
-        {
-            "coin": "BIF",
-            "hash": "3eIB...r3bQ",
-            "profit": 0.008327907489831069,
-            "type": "Swap"
-        },
-        {
-            "coin": "SEAT",
-            "hash": "ph09...P16y",
-            "profit": 0.005365108871134004,
-            "type": "Swap"
-        },
-        {
-            "coin": "SoyBoys",
-            "hash": "IAuy...MFwQ",
-            "profit": 0.003113648574351245,
-            "type": "Swap"
-        },
-        {
-            "coin": "CDOG",
-            "hash": "b5NG...l6Sm",
-            "profit": 0.000816090125818985,
-            "type": "Swap"
-        },
-        {
-            "coin": "conviction",
-            "hash": "5iie...GwdY",
-            "profit": 0.0034218441146915747,
-            "type": "Swap"
-        },
-        {
-            "coin": "mumuai",
-            "hash": "NQ2S...iqn1",
-            "profit": 0.015626195465699495,
-            "type": "Swap"
-        },
-        {
-            "coin": "SHKR ",
-            "hash": "HABE...pwa3",
-            "profit": 0.0030968265233867875,
-            "type": "Swap"
-        },
-        {
+            "hash": "IgcO...eJ0y",
+            "type": "Swap",
             "coin": "SPROTO",
-            "hash": "uOEy...w8WS",
-            "profit": 0.009566096886378312,
-            "type": "Swap"
+            "profit": 0.019176075231723096
         },
         {
-            "coin": "CHIITAN",
-            "hash": "Aa3t...8xyy",
-            "profit": 0.0014127272147325754,
-            "type": "Swap"
+            "hash": "wecx...0Lgy",
+            "type": "Swap",
+            "coin": "apySOL",
+            "profit": 0.010017963673638462
         },
         {
-            "coin": "SOL",
-            "hash": "asKS...uch0",
-            "profit": 0.004547087980976068,
-            "type": "Swap"
+            "hash": "wyXJ...8dTf",
+            "type": "Swap",
+            "coin": "BEZO",
+            "profit": 0.0036279560227348317
         },
         {
-            "coin": "hotgirl",
-            "hash": "7Rwg...i7Hz",
-            "profit": 0.019117602864426174,
-            "type": "Swap"
+            "hash": "uQTl...bGxh",
+            "type": "Swap",
+            "coin": "JJ\u200e ",
+            "profit": 0.016851811849197585
         },
         {
-            "coin": "$BIAO",
-            "hash": "k7bE...qRyi",
-            "profit": 0.004711787920874164,
-            "type": "Swap"
+            "hash": "eNKc...Sips",
+            "type": "Swap",
+            "coin": "FISH",
+            "profit": 0.006184322506307093
         },
         {
-            "coin": "SOLPAC",
-            "hash": "Wk5m...2pCy",
-            "profit": 0.020476865810538463,
-            "type": "Swap"
+            "hash": "acQh...MvL2",
+            "type": "Swap",
+            "coin": "$Doodle",
+            "profit": 0.011544980442190694
         },
         {
-            "coin": "HELL",
-            "hash": "IOvE...qGzR",
-            "profit": 0.0076153398061940426,
-            "type": "Swap"
+            "hash": "6H5y...zNEA",
+            "type": "Swap",
+            "coin": "BDROP",
+            "profit": 0.019708483961765257
         },
         {
-            "coin": "BEEG",
-            "hash": "HU4O...0Jh8",
-            "profit": 0.003258771204927656,
-            "type": "Swap"
+            "hash": "empK...qyHW",
+            "type": "Swap",
+            "coin": "bloop",
+            "profit": 0.008910993584427675
         },
         {
-            "coin": "SILKROAD",
-            "hash": "WqK2...KK3x",
-            "profit": 0.0016203186380023538,
-            "type": "Swap"
+            "hash": "EtHM...WgLq",
+            "type": "Swap",
+            "coin": "PVP",
+            "profit": 0.019422804585271285
         },
         {
-            "coin": "SoM",
-            "hash": "3fxX...cH2k",
-            "profit": 0.00668246759521034,
-            "type": "Swap"
+            "hash": "nXlz...t2Dm",
+            "type": "Swap",
+            "coin": "$CEO",
+            "profit": 0.01752590560722732
         },
         {
-            "coin": "ANDY",
-            "hash": "kx9Q...R1U4",
-            "profit": 0.005518730137544446,
-            "type": "Swap"
+            "hash": "zRuU...Je53",
+            "type": "Swap",
+            "coin": "PUSSE",
+            "profit": 0.0015059304300464762
         },
         {
-            "coin": "YUGE",
-            "hash": "2bgu...t7Nc",
-            "profit": 0.006147610645778548,
-            "type": "Swap"
+            "hash": "NSUH...Hp0T",
+            "type": "Swap",
+            "coin": "NAIRO",
+            "profit": 0.01994329522097224
         },
         {
-            "coin": "PIXI",
-            "hash": "SnAH...jaTS",
-            "profit": 0.006645124804062698,
-            "type": "Swap"
+            "hash": "NtLz...1ROx",
+            "type": "Swap",
+            "coin": "ballcat",
+            "profit": 0.022214353729899817
         },
         {
-            "coin": "Merwa",
-            "hash": "uZl8...1kLo",
-            "profit": 0.004736900163445041,
-            "type": "Swap"
+            "hash": "oFgR...eDF9",
+            "type": "Swap",
+            "coin": "HEAVEN",
+            "profit": 0.021870045808201347
         },
         {
-            "coin": "SCORPIO",
-            "hash": "dLff...MwY4",
-            "profit": 0.012495802016650119,
-            "type": "Swap"
+            "hash": "TcLI...RS0Z",
+            "type": "Swap",
+            "coin": "NMAMA",
+            "profit": 0.00575544848988768
         },
         {
-            "coin": "SAVE",
-            "hash": "tOHy...SC0X",
-            "profit": 0.009644445408578147,
-            "type": "Swap"
+            "hash": "nrnq...RVL9",
+            "type": "Swap",
+            "coin": "puck",
+            "profit": 0.00032947585659951785
         },
         {
-            "coin": "LASER",
-            "hash": "umyt...vBEr",
-            "profit": 0.003918387346280727,
-            "type": "Swap"
+            "hash": "Ezoz...bzNO",
+            "type": "Swap",
+            "coin": "DIZZO",
+            "profit": 0.013984858666294772
         },
         {
-            "coin": "FIAT",
-            "hash": "Sntk...t35t",
-            "profit": 0.0037915459365349233,
-            "type": "Swap"
+            "hash": "LIoj...6lvl",
+            "type": "Swap",
+            "coin": "LOWB",
+            "profit": 0.006461968571632502
         },
         {
-            "coin": "gomu",
-            "hash": "3x8n...TLun",
-            "profit": 0.018811670293500525,
-            "type": "Swap"
+            "hash": "GutJ...p5gp",
+            "type": "Swap",
+            "coin": "TRUMPSHIBA",
+            "profit": 0.008983287717999746
         },
         {
-            "coin": "FCKMON",
-            "hash": "lRj0...7nBF",
-            "profit": 0.0010414430998231517,
-            "type": "Swap"
+            "hash": "kQBt...vgXN",
+            "type": "Swap",
+            "coin": "CAP",
+            "profit": 0.01088715995130975
         },
         {
-            "coin": "YESBUT",
-            "hash": "ETBO...iij5",
-            "profit": 0.006549299446219761,
-            "type": "Swap"
+            "hash": "0WoF...6Gdh",
+            "type": "Swap",
+            "coin": "JitoSOL",
+            "profit": 0.007243268989982624
         },
         {
-            "coin": "GTATE",
-            "hash": "IzDj...AYht",
-            "profit": 0.008987125771660807,
-            "type": "Swap"
+            "hash": "nm3q...oJdH",
+            "type": "Swap",
+            "coin": "JIA",
+            "profit": 0.00726577204793811
         },
         {
-            "coin": "ROAR",
-            "hash": "DACg...wXuY",
-            "profit": 0.003414690546180184,
-            "type": "Swap"
+            "hash": "jGen...xT2A",
+            "type": "Swap",
+            "coin": "SOLNIC",
+            "profit": 0.00804352307374612
         },
         {
-            "coin": "SEGA",
-            "hash": "T8qb...u3KR",
-            "profit": 0.010001913234654755,
-            "type": "Swap"
+            "hash": "DrpY...0vF9",
+            "type": "Swap",
+            "coin": "T1500",
+            "profit": 0.014304657032800708
         },
         {
-            "coin": "KIT",
-            "hash": "cRt4...dfog",
-            "profit": 0.004083296692580136,
-            "type": "Swap"
+            "hash": "XbM6...tnv9",
+            "type": "Swap",
+            "coin": "SMUG",
+            "profit": 0.006870566228540657
         },
         {
-            "coin": "sili",
-            "hash": "K2vz...O9FT",
-            "profit": 0.007408939249757514,
-            "type": "Swap"
+            "hash": "Cjjr...WX3g",
+            "type": "Swap",
+            "coin": "WIGGA",
+            "profit": 0.020923737095235966
         },
         {
-            "coin": "JESUS",
-            "hash": "fI2w...bKJd",
-            "profit": 0.008832168242583451,
-            "type": "Swap"
+            "hash": "Qe4w...5cjf",
+            "type": "Swap",
+            "coin": "ITHEUM",
+            "profit": 0.019926479717136528
         },
         {
-            "coin": "Sol",
-            "hash": "zOOV...WecM",
-            "profit": 10,
-            "type": "Deposit"
+            "hash": "9i9M...4JEK",
+            "type": "Swap",
+            "coin": "Mooner",
+            "profit": 0.021217698305418378
         },
         {
-            "coin": "max",
-            "hash": "esHK...7kFT",
-            "profit": 0.0022457107384583046,
-            "type": "Swap"
+            "hash": "G33X...EPz2",
+            "type": "Swap",
+            "coin": "HI",
+            "profit": 0.006526189778685622
         },
         {
-            "coin": "OBEMA",
-            "hash": "DL3h...ZNRp",
-            "profit": 0.0199598859806232,
-            "type": "Swap"
+            "hash": "6NZJ...SzAF",
+            "type": "Swap",
+            "coin": "CLOUD",
+            "profit": 0.0051689818086353085
         },
         {
-            "coin": "KENJI",
-            "hash": "Xfsd...YfpL",
-            "profit": 0.00921252941671545,
-            "type": "Swap"
+            "hash": "QfpC...vPWB",
+            "type": "Swap",
+            "coin": "Sonic",
+            "profit": 0.01431922953058055
         },
         {
-            "coin": "FIW",
-            "hash": "CseU...S98I",
-            "profit": 0.01851560026557266,
-            "type": "Swap"
+            "hash": "1jd6...MYOi",
+            "type": "Swap",
+            "coin": "ONIGIRI",
+            "profit": 0.019057695646096853
         },
         {
-            "coin": "MRSTROLL",
-            "hash": "4YQl...XizN",
-            "profit": 0.006752596704494984,
-            "type": "Swap"
+            "hash": "h4cp...NmHH",
+            "type": "Swap",
+            "coin": "DARKELON",
+            "profit": 0.006406318342250617
         },
         {
-            "coin": "BUMBANA",
-            "hash": "kMv6...WWEG",
-            "profit": 0.017697797248545304,
-            "type": "Swap"
+            "hash": "hDqF...QCw4",
+            "type": "Swap",
+            "coin": "NARUTO",
+            "profit": 0.010327432117273787
         },
         {
-            "coin": "DAWGZ",
-            "hash": "xizB...zv7o",
-            "profit": 0.009996085069293588,
-            "type": "Swap"
+            "hash": "TtIF...ETJq",
+            "type": "Swap",
+            "coin": "SLOTH",
+            "profit": 0.010349904594573009
         },
         {
-            "coin": "USDY",
-            "hash": "NqyN...mphs",
-            "profit": 0.01451398342088481,
-            "type": "Swap"
+            "hash": "zBMa...lcfi",
+            "type": "Swap",
+            "coin": "$HAM",
+            "profit": 0.0045769768971941635
         },
         {
-            "coin": "TRUMPCAT",
-            "hash": "e9BX...e1VU",
-            "profit": 0.008920312017792567,
-            "type": "Swap"
+            "hash": "GfB4...TfvL",
+            "type": "Swap",
+            "coin": "THOG",
+            "profit": 0.009298450877027199
         },
         {
-            "coin": "IMARO",
-            "hash": "croT...z97Z",
-            "profit": 0.008354424285796547,
-            "type": "Swap"
-        },
-        {
-            "coin": "BILLY",
-            "hash": "dB1L...V0nI",
-            "profit": 0.019035667893768222,
-            "type": "Swap"
-        },
-        {
-            "coin": "FYRE",
-            "hash": "GQGc...aQD2",
-            "profit": 0.0002833904110356171,
-            "type": "Swap"
-        },
-        {
-            "coin": "MBGA",
-            "hash": "o89i...OoEJ",
-            "profit": 0.009618708702730778,
-            "type": "Swap"
-        },
-        {
-            "coin": "BEEG",
-            "hash": "s0UR...zhTB",
-            "profit": 0.017790660266090517,
-            "type": "Swap"
-        },
-        {
-            "coin": "GIO",
-            "hash": "FevO...h4db",
-            "profit": 0.010836293814331535,
-            "type": "Swap"
-        },
-        {
-            "coin": "Koss",
-            "hash": "yGFJ...xQJY",
-            "profit": 0.006118916742202087,
-            "type": "Swap"
-        },
-        {
-            "coin": "BONKITA",
-            "hash": "DwPD...Lt8U",
-            "profit": 0.019752889833464786,
-            "type": "Swap"
-        },
-        {
-            "coin": "HOES",
-            "hash": "FhkB...CHAd",
-            "profit": 0.016458483872982824,
-            "type": "Swap"
-        },
-        {
-            "coin": "HARRIS",
-            "hash": "hBwQ...mdJ5",
-            "profit": 0.0026557653964850887,
-            "type": "Swap"
-        },
-        {
-            "coin": "LUFFY",
-            "hash": "9Vhm...rVNb",
-            "profit": 0.005689699221653567,
-            "type": "Swap"
-        },
-        {
-            "coin": "TBH",
-            "hash": "vMGb...1mRC",
-            "profit": 0.017115457494439157,
-            "type": "Swap"
-        },
-        {
-            "coin": "FLOG",
-            "hash": "lkvY...qSPD",
-            "profit": 0.0011750380712779445,
-            "type": "Swap"
-        },
-        {
-            "coin": "GINNAN",
-            "hash": "Hd9O...ajyy",
-            "profit": 0.0019038333218719347,
-            "type": "Swap"
-        },
-        {
-            "coin": "DRAGON",
-            "hash": "Ok4b...gss4",
-            "profit": 0.012945771976515235,
-            "type": "Swap"
-        },
-        {
-            "coin": "MOONZ",
-            "hash": "s7lF...b17T",
-            "profit": 0.011349306457089304,
-            "type": "Swap"
-        },
-        {
-            "coin": "VANCE",
-            "hash": "Hj7G...V8WF",
-            "profit": 0.018707566896341128,
-            "type": "Swap"
-        },
-        {
+            "hash": "ttrP...FmOe",
+            "type": "Swap",
             "coin": "USDC",
-            "hash": "YH9m...rfVt",
-            "profit": 0.010678360139081935,
+            "profit": 0.002181128088129713
+        },
+        {
+            "hash": "fnMR...Rsjb",
+            "type": "Swap",
+            "coin": "$talahon",
+            "profit": 0.006750732208105479
+        },
+        {
+            "hash": "JbUP...CDJJ",
+            "type": "Swap",
+            "coin": "POSEIDON",
+            "profit": 0.016647403991579417
+        },
+        {
+            "hash": "AWpi...3uvK",
+            "type": "Swap",
+            "coin": "TATESEM",
+            "profit": 0.02039745556479442
+        },
+        {
+            "hash": "VBeV...o3c5",
+            "type": "Swap",
+            "coin": "FRUNCE",
+            "profit": 0.006793192303398251
+        },
+        {
+            "hash": "s4bu...HieV",
+            "type": "Swap",
+            "coin": "HULK",
+            "profit": 0.008309703544581739
+        },
+        {
+            "hash": "ikUE...46Zh",
+            "type": "Swap",
+            "coin": "JUP",
+            "profit": 0.01613107264656135
+        },
+        {
+            "hash": "NA2L...TvxZ",
+            "type": "Swap",
+            "coin": "\u3164\u3164",
+            "profit": 0.004277775410965193
+        },
+        {
+            "hash": "Q9IB...dZKW",
+            "type": "Swap",
+            "coin": "JIA",
+            "profit": 0.0010018620023785115
+        },
+        {
+            "hash": "qHbw...3md6",
+            "type": "Swap",
+            "coin": "CLINTON",
+            "profit": 0.02051533719293948
+        },
+        {
+            "hash": "Uw3z...IJ1J",
+            "type": "Swap",
+            "coin": "stSOL",
+            "profit": 0.007476743376359778
+        },
+        {
+            "hash": "gDZo...5JzD",
+            "type": "Swap",
+            "coin": "INF",
+            "profit": 0.014727088432813557
+        },
+        {
+            "hash": "9whC...8Aqr",
+            "type": "Swap",
+            "coin": "PUPPERFISH",
+            "profit": 0.011300388190015899
+        },
+        {
+            "coin": "PLANK",
+            "hash": "rksU...0Cqx",
+            "profit": 0.005053323011109786,
             "type": "Swap"
         },
         {
@@ -785,415 +413,763 @@
             "type": "Swap"
         },
         {
-            "coin": "PLANK",
-            "hash": "rksU...0Cqx",
-            "profit": 0.005053323011109786,
-            "type": "Swap"
-        },
-        {
-            "coin": "PUPPERFISH",
-            "hash": "9whC...8Aqr",
-            "profit": 0.011300388190015899,
-            "type": "Swap"
-        },
-        {
-            "coin": "INF",
-            "hash": "gDZo...5JzD",
-            "profit": 0.014727088432813557,
-            "type": "Swap"
-        },
-        {
-            "coin": "stSOL",
-            "hash": "Uw3z...IJ1J",
-            "profit": 0.007476743376359778,
-            "type": "Swap"
-        },
-        {
-            "coin": "CLINTON",
-            "hash": "qHbw...3md6",
-            "profit": 0.02051533719293948,
-            "type": "Swap"
-        },
-        {
-            "coin": "JIA",
-            "hash": "Q9IB...dZKW",
-            "profit": 0.0010018620023785115,
-            "type": "Swap"
-        },
-        {
-            "coin": "\u3164\u3164",
-            "hash": "NA2L...TvxZ",
-            "profit": 0.004277775410965193,
-            "type": "Swap"
-        },
-        {
-            "coin": "JUP",
-            "hash": "ikUE...46Zh",
-            "profit": 0.01613107264656135,
-            "type": "Swap"
-        },
-        {
-            "coin": "HULK",
-            "hash": "s4bu...HieV",
-            "profit": 0.008309703544581739,
-            "type": "Swap"
-        },
-        {
-            "coin": "FRUNCE",
-            "hash": "VBeV...o3c5",
-            "profit": 0.006793192303398251,
-            "type": "Swap"
-        },
-        {
-            "coin": "TATESEM",
-            "hash": "AWpi...3uvK",
-            "profit": 0.02039745556479442,
-            "type": "Swap"
-        },
-        {
-            "coin": "POSEIDON",
-            "hash": "JbUP...CDJJ",
-            "profit": 0.016647403991579417,
-            "type": "Swap"
-        },
-        {
-            "coin": "$talahon",
-            "hash": "fnMR...Rsjb",
-            "profit": 0.006750732208105479,
-            "type": "Swap"
-        },
-        {
             "coin": "USDC",
-            "hash": "ttrP...FmOe",
-            "profit": 0.002181128088129713,
+            "hash": "YH9m...rfVt",
+            "profit": 0.010678360139081935,
             "type": "Swap"
         },
         {
-            "coin": "THOG",
-            "hash": "GfB4...TfvL",
-            "profit": 0.009298450877027199,
+            "coin": "VANCE",
+            "hash": "Hj7G...V8WF",
+            "profit": 0.018707566896341128,
             "type": "Swap"
         },
         {
-            "coin": "$HAM",
-            "hash": "zBMa...lcfi",
-            "profit": 0.0045769768971941635,
+            "coin": "MOONZ",
+            "hash": "s7lF...b17T",
+            "profit": 0.011349306457089304,
             "type": "Swap"
         },
         {
-            "coin": "SLOTH",
-            "hash": "TtIF...ETJq",
-            "profit": 0.010349904594573009,
+            "coin": "DRAGON",
+            "hash": "Ok4b...gss4",
+            "profit": 0.012945771976515235,
             "type": "Swap"
         },
         {
-            "coin": "NARUTO",
-            "hash": "hDqF...QCw4",
-            "profit": 0.010327432117273787,
+            "coin": "GINNAN",
+            "hash": "Hd9O...ajyy",
+            "profit": 0.0019038333218719347,
             "type": "Swap"
         },
         {
-            "coin": "DARKELON",
-            "hash": "h4cp...NmHH",
-            "profit": 0.006406318342250617,
+            "coin": "FLOG",
+            "hash": "lkvY...qSPD",
+            "profit": 0.0011750380712779445,
             "type": "Swap"
         },
         {
-            "coin": "ONIGIRI",
-            "hash": "1jd6...MYOi",
-            "profit": 0.019057695646096853,
+            "coin": "TBH",
+            "hash": "vMGb...1mRC",
+            "profit": 0.017115457494439157,
             "type": "Swap"
         },
         {
-            "coin": "Sonic",
-            "hash": "QfpC...vPWB",
-            "profit": 0.01431922953058055,
+            "coin": "LUFFY",
+            "hash": "9Vhm...rVNb",
+            "profit": 0.005689699221653567,
             "type": "Swap"
         },
         {
-            "coin": "CLOUD",
-            "hash": "6NZJ...SzAF",
-            "profit": 0.0051689818086353085,
+            "coin": "HARRIS",
+            "hash": "hBwQ...mdJ5",
+            "profit": 0.0026557653964850887,
             "type": "Swap"
         },
         {
-            "coin": "HI",
-            "hash": "G33X...EPz2",
-            "profit": 0.006526189778685622,
+            "coin": "HOES",
+            "hash": "FhkB...CHAd",
+            "profit": 0.016458483872982824,
             "type": "Swap"
         },
         {
-            "coin": "Mooner",
-            "hash": "9i9M...4JEK",
-            "profit": 0.021217698305418378,
+            "coin": "BONKITA",
+            "hash": "DwPD...Lt8U",
+            "profit": 0.019752889833464786,
             "type": "Swap"
         },
         {
-            "coin": "ITHEUM",
-            "hash": "Qe4w...5cjf",
-            "profit": 0.019926479717136528,
+            "coin": "Koss",
+            "hash": "yGFJ...xQJY",
+            "profit": 0.006118916742202087,
             "type": "Swap"
         },
         {
-            "coin": "WIGGA",
-            "hash": "Cjjr...WX3g",
-            "profit": 0.020923737095235966,
+            "coin": "GIO",
+            "hash": "FevO...h4db",
+            "profit": 0.010836293814331535,
             "type": "Swap"
         },
         {
-            "coin": "SMUG",
-            "hash": "XbM6...tnv9",
-            "profit": 0.006870566228540657,
+            "coin": "BEEG",
+            "hash": "s0UR...zhTB",
+            "profit": 0.017790660266090517,
             "type": "Swap"
         },
         {
-            "coin": "T1500",
-            "hash": "DrpY...0vF9",
-            "profit": 0.014304657032800708,
+            "coin": "MBGA",
+            "hash": "o89i...OoEJ",
+            "profit": 0.009618708702730778,
             "type": "Swap"
         },
         {
-            "coin": "SOLNIC",
-            "hash": "jGen...xT2A",
-            "profit": 0.00804352307374612,
+            "coin": "FYRE",
+            "hash": "GQGc...aQD2",
+            "profit": 0.0002833904110356171,
             "type": "Swap"
         },
         {
-            "coin": "JIA",
-            "hash": "nm3q...oJdH",
-            "profit": 0.00726577204793811,
+            "coin": "BILLY",
+            "hash": "dB1L...V0nI",
+            "profit": 0.019035667893768222,
             "type": "Swap"
         },
         {
-            "coin": "JitoSOL",
-            "hash": "0WoF...6Gdh",
-            "profit": 0.007243268989982624,
+            "coin": "IMARO",
+            "hash": "croT...z97Z",
+            "profit": 0.008354424285796547,
             "type": "Swap"
         },
         {
-            "coin": "CAP",
-            "hash": "kQBt...vgXN",
-            "profit": 0.01088715995130975,
+            "coin": "TRUMPCAT",
+            "hash": "e9BX...e1VU",
+            "profit": 0.008920312017792567,
             "type": "Swap"
         },
         {
-            "coin": "TRUMPSHIBA",
-            "hash": "GutJ...p5gp",
-            "profit": 0.008983287717999746,
+            "coin": "USDY",
+            "hash": "NqyN...mphs",
+            "profit": 0.01451398342088481,
             "type": "Swap"
         },
         {
-            "coin": "LOWB",
-            "hash": "LIoj...6lvl",
-            "profit": 0.006461968571632502,
+            "coin": "DAWGZ",
+            "hash": "xizB...zv7o",
+            "profit": 0.009996085069293588,
             "type": "Swap"
         },
         {
-            "coin": "DIZZO",
-            "hash": "Ezoz...bzNO",
-            "profit": 0.013984858666294772,
+            "coin": "BUMBANA",
+            "hash": "kMv6...WWEG",
+            "profit": 0.017697797248545304,
             "type": "Swap"
         },
         {
-            "coin": "puck",
-            "hash": "nrnq...RVL9",
-            "profit": 0.00032947585659951785,
+            "coin": "MRSTROLL",
+            "hash": "4YQl...XizN",
+            "profit": 0.006752596704494984,
             "type": "Swap"
         },
         {
-            "coin": "NMAMA",
-            "hash": "TcLI...RS0Z",
-            "profit": 0.00575544848988768,
+            "coin": "FIW",
+            "hash": "CseU...S98I",
+            "profit": 0.01851560026557266,
             "type": "Swap"
         },
         {
-            "coin": "HEAVEN",
-            "hash": "oFgR...eDF9",
-            "profit": 0.021870045808201347,
+            "coin": "KENJI",
+            "hash": "Xfsd...YfpL",
+            "profit": 0.00921252941671545,
             "type": "Swap"
         },
         {
-            "coin": "ballcat",
-            "hash": "NtLz...1ROx",
-            "profit": 0.022214353729899817,
+            "coin": "OBEMA",
+            "hash": "DL3h...ZNRp",
+            "profit": 0.0199598859806232,
             "type": "Swap"
         },
         {
-            "coin": "NAIRO",
-            "hash": "NSUH...Hp0T",
-            "profit": 0.01994329522097224,
+            "coin": "max",
+            "hash": "esHK...7kFT",
+            "profit": 0.0022457107384583046,
             "type": "Swap"
         },
         {
-            "coin": "PUSSE",
-            "hash": "zRuU...Je53",
-            "profit": 0.0015059304300464762,
+            "coin": "Sol",
+            "hash": "zOOV...WecM",
+            "profit": 10,
+            "type": "Deposit"
+        },
+        {
+            "coin": "JESUS",
+            "hash": "fI2w...bKJd",
+            "profit": 0.008832168242583451,
             "type": "Swap"
         },
         {
-            "coin": "$CEO",
-            "hash": "nXlz...t2Dm",
-            "profit": 0.01752590560722732,
+            "coin": "sili",
+            "hash": "K2vz...O9FT",
+            "profit": 0.007408939249757514,
             "type": "Swap"
         },
         {
-            "coin": "PVP",
-            "hash": "EtHM...WgLq",
-            "profit": 0.019422804585271285,
+            "coin": "KIT",
+            "hash": "cRt4...dfog",
+            "profit": 0.004083296692580136,
             "type": "Swap"
         },
         {
-            "coin": "bloop",
-            "hash": "empK...qyHW",
-            "profit": 0.008910993584427675,
+            "coin": "SEGA",
+            "hash": "T8qb...u3KR",
+            "profit": 0.010001913234654755,
             "type": "Swap"
         },
         {
-            "coin": "BDROP",
-            "hash": "6H5y...zNEA",
-            "profit": 0.019708483961765257,
+            "coin": "ROAR",
+            "hash": "DACg...wXuY",
+            "profit": 0.003414690546180184,
             "type": "Swap"
         },
         {
-            "coin": "$Doodle",
-            "hash": "acQh...MvL2",
-            "profit": 0.011544980442190694,
+            "coin": "GTATE",
+            "hash": "IzDj...AYht",
+            "profit": 0.008987125771660807,
             "type": "Swap"
         },
         {
-            "coin": "FISH",
-            "hash": "eNKc...Sips",
-            "profit": 0.006184322506307093,
+            "coin": "YESBUT",
+            "hash": "ETBO...iij5",
+            "profit": 0.006549299446219761,
             "type": "Swap"
         },
         {
-            "coin": "JJ\u200e ",
-            "hash": "uQTl...bGxh",
-            "profit": 0.016851811849197585,
+            "coin": "FCKMON",
+            "hash": "lRj0...7nBF",
+            "profit": 0.0010414430998231517,
             "type": "Swap"
         },
         {
-            "coin": "BEZO",
-            "hash": "wyXJ...8dTf",
-            "profit": 0.0036279560227348317,
+            "coin": "gomu",
+            "hash": "3x8n...TLun",
+            "profit": 0.018811670293500525,
             "type": "Swap"
         },
         {
-            "coin": "apySOL",
-            "hash": "wecx...0Lgy",
-            "profit": 0.010017963673638462,
+            "coin": "FIAT",
+            "hash": "Sntk...t35t",
+            "profit": 0.0037915459365349233,
+            "type": "Swap"
+        },
+        {
+            "coin": "LASER",
+            "hash": "umyt...vBEr",
+            "profit": 0.003918387346280727,
+            "type": "Swap"
+        },
+        {
+            "coin": "SAVE",
+            "hash": "tOHy...SC0X",
+            "profit": 0.009644445408578147,
+            "type": "Swap"
+        },
+        {
+            "coin": "SCORPIO",
+            "hash": "dLff...MwY4",
+            "profit": 0.012495802016650119,
+            "type": "Swap"
+        },
+        {
+            "coin": "Merwa",
+            "hash": "uZl8...1kLo",
+            "profit": 0.004736900163445041,
+            "type": "Swap"
+        },
+        {
+            "coin": "PIXI",
+            "hash": "SnAH...jaTS",
+            "profit": 0.006645124804062698,
+            "type": "Swap"
+        },
+        {
+            "coin": "YUGE",
+            "hash": "2bgu...t7Nc",
+            "profit": 0.006147610645778548,
+            "type": "Swap"
+        },
+        {
+            "coin": "ANDY",
+            "hash": "kx9Q...R1U4",
+            "profit": 0.005518730137544446,
+            "type": "Swap"
+        },
+        {
+            "coin": "SoM",
+            "hash": "3fxX...cH2k",
+            "profit": 0.00668246759521034,
+            "type": "Swap"
+        },
+        {
+            "coin": "SILKROAD",
+            "hash": "WqK2...KK3x",
+            "profit": 0.0016203186380023538,
+            "type": "Swap"
+        },
+        {
+            "coin": "BEEG",
+            "hash": "HU4O...0Jh8",
+            "profit": 0.003258771204927656,
+            "type": "Swap"
+        },
+        {
+            "coin": "HELL",
+            "hash": "IOvE...qGzR",
+            "profit": 0.0076153398061940426,
+            "type": "Swap"
+        },
+        {
+            "coin": "SOLPAC",
+            "hash": "Wk5m...2pCy",
+            "profit": 0.020476865810538463,
+            "type": "Swap"
+        },
+        {
+            "coin": "$BIAO",
+            "hash": "k7bE...qRyi",
+            "profit": 0.004711787920874164,
+            "type": "Swap"
+        },
+        {
+            "coin": "hotgirl",
+            "hash": "7Rwg...i7Hz",
+            "profit": 0.019117602864426174,
+            "type": "Swap"
+        },
+        {
+            "coin": "SOL",
+            "hash": "asKS...uch0",
+            "profit": 0.004547087980976068,
+            "type": "Swap"
+        },
+        {
+            "coin": "CHIITAN",
+            "hash": "Aa3t...8xyy",
+            "profit": 0.0014127272147325754,
             "type": "Swap"
         },
         {
             "coin": "SPROTO",
-            "hash": "IgcO...eJ0y",
-            "profit": 0.019176075231723096,
+            "hash": "uOEy...w8WS",
+            "profit": 0.009566096886378312,
             "type": "Swap"
         },
         {
-            "coin": "LOL",
-            "hash": "keCv...s4tV",
-            "profit": 0.01503650651732979,
+            "coin": "SHKR ",
+            "hash": "HABE...pwa3",
+            "profit": 0.0030968265233867875,
             "type": "Swap"
         },
         {
-            "coin": "SGB",
-            "hash": "YtOe...ApEn",
-            "profit": 0.02453846594349873,
+            "coin": "mumuai",
+            "hash": "NQ2S...iqn1",
+            "profit": 0.015626195465699495,
             "type": "Swap"
         },
         {
-            "coin": "SCOOT",
-            "hash": "R66s...MZp5",
-            "profit": 0.0047721077856402476,
+            "coin": "conviction",
+            "hash": "5iie...GwdY",
+            "profit": 0.0034218441146915747,
             "type": "Swap"
         },
         {
-            "coin": "PORK",
-            "hash": "7Pny...UKsm",
-            "profit": 0.0036385955568443533,
+            "coin": "CDOG",
+            "hash": "b5NG...l6Sm",
+            "profit": 0.000816090125818985,
             "type": "Swap"
         },
         {
-            "coin": "bitchi",
-            "hash": "Qpe6...9Gvj",
-            "profit": 0.009099588926931811,
+            "coin": "SoyBoys",
+            "hash": "IAuy...MFwQ",
+            "profit": 0.003113648574351245,
             "type": "Swap"
         },
         {
-            "coin": "RPT ",
-            "hash": "ZDun...yM5X",
-            "profit": 0.0236915841287091,
-            "type": "Swap"
-        },
-        {
-            "coin": "HARPER",
-            "hash": "A18f...yWgX",
-            "profit": 0.022590355533352646,
-            "type": "Swap"
-        },
-        {
-            "coin": "KAMA",
-            "hash": "uwT4...VZXD",
-            "profit": 0.013161419320941442,
-            "type": "Swap"
-        },
-        {
-            "coin": "Cico",
-            "hash": "XNL2...RLlC",
-            "profit": 0.01745954292715353,
-            "type": "Swap"
-        },
-        {
-            "coin": "arc",
-            "hash": "OOxb...2wbq",
-            "profit": 0.018959418125363656,
-            "type": "Swap"
-        },
-        {
-            "coin": "AART",
-            "hash": "rhq8...QYPL",
-            "profit": 0.014061924514104878,
-            "type": "Swap"
-        },
-        {
-            "coin": "DADDY",
-            "hash": "wUoe...aXoi",
-            "profit": 0.010461571585348016,
-            "type": "Swap"
-        },
-        {
-            "coin": "SAS",
-            "hash": "BAa1...1wme",
-            "profit": 0.013142512507793646,
-            "type": "Swap"
-        },
-        {
-            "hash": "NS2W...csHS",
+            "hash": "ph09...P16y",
             "type": "Swap",
-            "coin": "cepi",
-            "profit": 0.015167143150997877
+            "coin": "SEAT",
+            "profit": 0.005365108871134004
         },
         {
-            "hash": "7KRc...NRAa",
+            "hash": "3eIB...r3bQ",
             "type": "Swap",
-            "coin": "Uni",
-            "profit": 0.019818723169533186
+            "coin": "BIF",
+            "profit": 0.008327907489831069
         },
         {
-            "hash": "5Enj...dxVZ",
+            "hash": "ygKd...muxd",
             "type": "Swap",
-            "coin": "Nigtardio",
-            "profit": 0.01749932115010201
+            "coin": "SOLSAM",
+            "profit": 0.009930678833418055
         },
         {
-            "hash": "OMQn...6Ilr",
+            "hash": "Zh1H...M3aA",
             "type": "Swap",
-            "coin": "Panky",
-            "profit": 0.012746530225978103
+            "coin": "SDOGE",
+            "profit": 0.014388906492437268
+        },
+        {
+            "hash": "GnlG...YkS6",
+            "type": "Swap",
+            "coin": "TCAT",
+            "profit": 0.02073877536781316
+        },
+        {
+            "hash": "qGu8...myZT",
+            "type": "Swap",
+            "coin": "GOONER ",
+            "profit": 0.005146843769287087
+        },
+        {
+            "hash": "3E6O...qZyu",
+            "type": "Swap",
+            "coin": "FOXXX",
+            "profit": 0.02054624494463675
+        },
+        {
+            "hash": "Cuyz...DY15",
+            "type": "Swap",
+            "coin": "NCAT",
+            "profit": 0.0024716854983541465
+        },
+        {
+            "hash": "JgbI...XDYw",
+            "type": "Swap",
+            "coin": "BTC",
+            "profit": 0.015737905444864704
+        },
+        {
+            "hash": "67Gd...BUCP",
+            "type": "Swap",
+            "coin": "SEAL",
+            "profit": 0.01916621303283694
+        },
+        {
+            "hash": "cuJt...mBsd",
+            "type": "Swap",
+            "coin": "BRETTA",
+            "profit": 0.009567547675573761
+        },
+        {
+            "hash": "Wy7r...3L1o",
+            "type": "Swap",
+            "coin": "CMONK",
+            "profit": 0.0125354528733977
+        },
+        {
+            "hash": "EeNr...WdY3",
+            "type": "Swap",
+            "coin": "USDC",
+            "profit": 0.007521623174903239
+        },
+        {
+            "hash": "DAIl...78yz",
+            "type": "Swap",
+            "coin": "DTC",
+            "profit": 0.016985024164075883
+        },
+        {
+            "hash": "kFWF...0zpX",
+            "type": "Swap",
+            "coin": "hehe",
+            "profit": 0.0011815673784689442
+        },
+        {
+            "hash": "xCXn...bfLV",
+            "type": "Swap",
+            "coin": "PICA",
+            "profit": 0.016270016238362345
+        },
+        {
+            "hash": "z3UY...aJNI",
+            "type": "Swap",
+            "coin": "CUMALA",
+            "profit": 0.013788674427251619
+        },
+        {
+            "hash": "FhXH...QvEj",
+            "type": "Swap",
+            "coin": "SUS",
+            "profit": 0.010980723836956273
+        },
+        {
+            "hash": "7jwc...HrJv",
+            "type": "Swap",
+            "coin": "HELLO",
+            "profit": 0.018722412732785524
+        },
+        {
+            "hash": "xCeT...LoTH",
+            "type": "Swap",
+            "coin": "ELSA",
+            "profit": 0.012951598124585807
+        },
+        {
+            "hash": "6XNo...SPEj",
+            "type": "Swap",
+            "coin": "PUBO",
+            "profit": 0.020339408483963043
+        },
+        {
+            "hash": "llVY...UngG",
+            "type": "Swap",
+            "coin": "anon",
+            "profit": 0.008698247186208893
+        },
+        {
+            "hash": "lt2K...cVUX",
+            "type": "Swap",
+            "coin": "BASED",
+            "profit": 0.019892898883140313
+        },
+        {
+            "hash": "heO9...9hFf",
+            "type": "Swap",
+            "coin": "BossCoq",
+            "profit": 0.006215632263034419
+        },
+        {
+            "hash": "bFRR...btTO",
+            "type": "Swap",
+            "coin": "mf",
+            "profit": 0.011390860904883551
+        },
+        {
+            "hash": "vAjg...NJGV",
+            "type": "Swap",
+            "coin": "PRCL",
+            "profit": 0.002068217318088277
+        },
+        {
+            "hash": "rFac...XxNg",
+            "type": "Swap",
+            "coin": "pumpcat",
+            "profit": 0.016311724221596997
+        },
+        {
+            "hash": "MFrw...9Swd",
+            "type": "Swap",
+            "coin": "MUMU",
+            "profit": 0.0076133840078712565
+        },
+        {
+            "hash": "Hrez...gQsq",
+            "type": "Swap",
+            "coin": "TUPE",
+            "profit": 0.00828882582410256
+        },
+        {
+            "hash": "QION...MeLE",
+            "type": "Swap",
+            "coin": "BURGER",
+            "profit": 0.019028915551459795
+        },
+        {
+            "hash": "0KvI...GE26",
+            "type": "Swap",
+            "coin": "TROLL",
+            "profit": 0.0007129459728782791
+        },
+        {
+            "hash": "heX0...AaHV",
+            "type": "Swap",
+            "coin": "INF",
+            "profit": 0.01049601375934449
+        },
+        {
+            "hash": "aPVE...G3YK",
+            "type": "Swap",
+            "coin": "b",
+            "profit": 0.014821895026498607
+        },
+        {
+            "hash": "EYU2...Dfjs",
+            "type": "Swap",
+            "coin": "CHIRU",
+            "profit": 0.01820996653362985
+        },
+        {
+            "hash": "XPwZ...z5jj",
+            "type": "Swap",
+            "coin": "Blinks",
+            "profit": 0.0070910405093577225
+        },
+        {
+            "hash": "mdcK...L56k",
+            "type": "Swap",
+            "coin": "TUPE",
+            "profit": 0.0071228570206693775
+        },
+        {
+            "hash": "cOUL...i7io",
+            "type": "Swap",
+            "coin": "CDT",
+            "profit": 0.019381863965649972
+        },
+        {
+            "hash": "CMVW...jSgW",
+            "type": "Swap",
+            "coin": "BAIDEN",
+            "profit": 0.01204705678884258
+        },
+        {
+            "hash": "hOL8...B2yc",
+            "type": "Swap",
+            "coin": "PUPPERFISH",
+            "profit": 0.00519892807837585
+        },
+        {
+            "hash": "vfWb...dxwJ",
+            "type": "Swap",
+            "coin": "VC",
+            "profit": 0.010541696146455067
+        },
+        {
+            "hash": "yH6U...A1AX",
+            "type": "Swap",
+            "coin": "xIHS",
+            "profit": 0.021475836737752243
+        },
+        {
+            "hash": "O2tC...dGEA",
+            "type": "Swap",
+            "coin": "BSKT",
+            "profit": 0.006929530018896247
+        },
+        {
+            "hash": "iICW...YJTb",
+            "type": "Swap",
+            "coin": "CULT",
+            "profit": 0.012117703548482696
+        },
+        {
+            "hash": "a41I...AZSU",
+            "type": "Swap",
+            "coin": "MORT",
+            "profit": 0.01734413423888347
+        },
+        {
+            "hash": "QxIQ...WYYM",
+            "type": "Swap",
+            "coin": "SEND",
+            "profit": 0.0025675798306026305
+        },
+        {
+            "hash": "9oRs...NSpS",
+            "type": "Swap",
+            "coin": "GWUSS",
+            "profit": 0.023625179947851828
+        },
+        {
+            "hash": "Hbb7...H69e",
+            "type": "Swap",
+            "coin": "DERP",
+            "profit": 0.0042072828744269064
+        },
+        {
+            "hash": "ztjQ...I3db",
+            "type": "Swap",
+            "coin": "USDC",
+            "profit": 0.0021301204246290954
+        },
+        {
+            "hash": "PLcA...sNRR",
+            "type": "Swap",
+            "coin": "USDC",
+            "profit": 0.0210422029460434
+        },
+        {
+            "hash": "HvHe...IU8l",
+            "type": "Swap",
+            "coin": "hubSOL",
+            "profit": 0.016165368632180533
+        },
+        {
+            "hash": "rvk6...f5Sb",
+            "type": "Swap",
+            "coin": "BAKED",
+            "profit": 0.020453630064828362
+        },
+        {
+            "hash": "SJWq...Xntg",
+            "type": "Swap",
+            "coin": "ELON",
+            "profit": 0.013029490197186973
+        },
+        {
+            "hash": "ukEt...XxT3",
+            "type": "Swap",
+            "coin": "PONK",
+            "profit": 0.018114496597724062
+        },
+        {
+            "hash": "IkIf...4X7m",
+            "type": "Swap",
+            "coin": "DOLLAR",
+            "profit": 0.009970177034369995
+        },
+        {
+            "hash": "dYdc...sQUr",
+            "type": "Swap",
+            "coin": "AMERO",
+            "profit": 0.008012379500482045
+        },
+        {
+            "hash": "tj7I...e1Vg",
+            "type": "Swap",
+            "coin": "BabyDoge",
+            "profit": 0.014639241277301747
+        },
+        {
+            "hash": "cGhW...Gexo",
+            "type": "Swap",
+            "coin": "GANJA",
+            "profit": 0.0022022720248268896
+        },
+        {
+            "hash": "WwOB...28aB",
+            "type": "Swap",
+            "coin": "Bun",
+            "profit": 0.014686180791115163
+        },
+        {
+            "hash": "Irmf...mZ4a",
+            "type": "Swap",
+            "coin": "FUTURE",
+            "profit": 0.008753212273342808
+        },
+        {
+            "hash": "vAFS...V0ss",
+            "type": "Swap",
+            "coin": "Neiro",
+            "profit": 0.010127910781457656
+        },
+        {
+            "hash": "mxAf...Z4sp",
+            "type": "Swap",
+            "coin": "ATMT",
+            "profit": 0.017590032729363526
+        },
+        {
+            "hash": "7EUf...Wti5",
+            "type": "Swap",
+            "coin": "GIBBY",
+            "profit": 0.021707857245749397
+        },
+        {
+            "hash": "jGUA...5Ogc",
+            "type": "Swap",
+            "coin": "USDT",
+            "profit": 0.012384433490790872
+        },
+        {
+            "hash": "PHpH...Ia0x",
+            "type": "Swap",
+            "coin": "bezenga",
+            "profit": 0.011899739882951866
+        },
+        {
+            "hash": "iPjt...vCzo",
+            "type": "Swap",
+            "coin": "BUTT",
+            "profit": 0.026091871739001883
+        },
+        {
+            "hash": "s7NL...77U8",
+            "type": "Swap",
+            "coin": "MEL",
+            "profit": 0.003530729011789327
         }
     ],
-    "profit": 3.231642053324862,
+    "profit": 3.6654341947132743,
     "isStarted": true,
     "startTime": "2024-07-29T20:14:13.282Z",
     "solBalance": 8.311441

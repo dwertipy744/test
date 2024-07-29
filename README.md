@@ -13,6 +13,7 @@
 - **Profit Maximization**: Buys and sells assets during volume spikes to maximize profits.
 - **Adaptive Strategies**: Adapts to market conditions in real-time.
 - **Ease of Use**: Integrates seamlessly into your trading workflow.
+- **Minimum rent**: The cheapest rent on the market.
 
 ## Installation
 
